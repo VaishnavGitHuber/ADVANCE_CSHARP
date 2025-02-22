@@ -1,8 +1,12 @@
 ## Delegates
 - delegates are the  type safe function pointers 
-### 1. Multicast delegates: can be used to invoke more than one methods 
-### 2. Anonymous delegates: can be define a mthod without name(Anonymous method)
+### 1. Multicast delegates: 
+- can be used to invoke more than one methods 
+### 2. Anonymous delegates: 
+- can be define a mthod without name(Anonymous method)
 
+
+## CODE
 ```
 /* 
 class Delegate {
